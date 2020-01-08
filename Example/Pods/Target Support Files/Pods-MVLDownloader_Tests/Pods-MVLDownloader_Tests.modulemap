@@ -1,0 +1,6 @@
+framework module Pods_MVLDownloader_Tests {
+  umbrella header "Pods-MVLDownloader_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

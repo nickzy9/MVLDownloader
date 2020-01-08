@@ -1,0 +1,16 @@
+PODS:
+  - MVLDownloader (0.1.0)
+
+DEPENDENCIES:
+  - MVLDownloader (from `../`)
+
+EXTERNAL SOURCES:
+  MVLDownloader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MVLDownloader: 1f3c0eec418b3bf199e94dd942fc3a23ff888817
+
+PODFILE CHECKSUM: f991651d1b8c5889da1d71d5ea3d24a35f67e255
+
+COCOAPODS: 1.8.4
