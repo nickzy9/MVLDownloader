@@ -83,7 +83,8 @@ MVLDownloader.shared.downloadFile(from: url!, completionBlock: { (data, error) i
 JSON objects can be downloaded from a given `URL`, the library parses the returned data into the provided `Cdable` data model. 
 For example:
 
-```Raw JSON object
+```
+Raw JSON object
 {
   "id": "OevW4fja2No",
   "username": "nicholaskampouris",
@@ -151,7 +152,7 @@ let downloader = MVLDownloader(cacheSize: 200 * 1024 * 1024)
 MVLDownloader.shared.clearCache()
 ```
 
-#### Clear cache for specifc URL
+#### Clear cache for specific URL
 
 ```swift
 let url = URL(string: "https://pastebin.com/raw/wgkJgazE")
@@ -160,7 +161,7 @@ MVLDownloader.shared.clearCache(for: url!)
 
 ## Author
 
-niekzy, Aniket S
+niekzy, `Aniket Sankpal`
 
 ## License
 
