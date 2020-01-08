@@ -1,5 +1,7 @@
 # MVLDownloader
 
+MVLDownloader is a powerful, pure-Swift library for downloading and caching images/files from the web.
+
 [![CI Status](https://img.shields.io/travis/niekzy/MVLDownloader.svg?style=flat)](https://travis-ci.org/niekzy/MVLDownloader)
 [![Version](https://img.shields.io/cocoapods/v/MVLDownloader.svg?style=flat)](https://cocoapods.org/pods/MVLDownloader)
 [![License](https://img.shields.io/cocoapods/l/MVLDownloader.svg?style=flat)](https://cocoapods.org/pods/MVLDownloader)
