@@ -32,7 +32,7 @@ pod 'MVLDownloader'
 
 ### Shared Instance
 
-A shared instance of MVDownloader can be use for managing download requests. 
+A shared instance of MVDownloader can be used for managing download requests. 
 
 ```swift
 import MVLDownloader
@@ -80,7 +80,7 @@ MVLDownloader.shared.downloadFile(from: url!, completionBlock: { (data, error) i
 
 ### Download JSON
 
-JSON objects can be downloaded from a given `URL`, the library parses the returned data into the provided `Cdable` data model. 
+JSON objects can be downloaded from a given `URL`, the library parses the returned data into the provided `Codable` data model. 
 For example:
 
 ```
